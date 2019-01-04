@@ -53,7 +53,7 @@ npm test
 
 ## Authors
 
-* **David Goldstein** - [DavidCharlesGoldstein.com](http://www.davidcharlesgoldstein.com/) - [Decipher Technology Studios](http://deciphernow.com/)
+* **David Goldstein** - [DavidCharlesGoldstein.com](http://www.davidcharlesgoldstein.com/?github-password-manager-ui) - [Decipher Technology Studios](http://deciphernow.com/)
 
 ## License
 
